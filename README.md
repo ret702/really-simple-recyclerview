@@ -29,13 +29,13 @@ And voila!
 
 
 
-Add these string to your application with your own custom values to override the defaults 
+Add these string names to your application with your own custom values to override the defaults 
 if you want a different size textview or imageview:
 
-   <string name="really_simple_recyclerview_imageview_height">70dp</string>
-   <string name="really_simple_recyclerview_imageview_width">match_parent</string>
-   <string name="really_simple_recyclerview_imageview_weight">80</string>
+  really_simple_recyclerview_imageview_height
+  really_simple_recyclerview_imageview_width
+  really_simple_recyclerview_imageview_weight
 
-   <string name="really_simple_recyclerview_textview_height">70dp</string>
-   <string name="really_simple_recyclerview_textview_width">match_parent</string>
-   <string name="really_simple_recyclerview_textview_weight">20</string>
+  really_simple_recyclerview_textview_height
+  really_simple_recyclerview_textview_width
+  really_simple_recyclerview_textview_weight
