@@ -32,6 +32,7 @@ And voila!
 Add these string names to your application with your own custom values to override the defaults 
 if you want a different size textview or imageview:
 
+
   really_simple_recyclerview_imageview_height
   really_simple_recyclerview_imageview_width
   really_simple_recyclerview_imageview_weight
