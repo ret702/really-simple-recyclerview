@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">reallysimplerecyclerview</string>
+    <string name="really_simple_recyclerview_imageview_height">70dp</string>
+    <string name="really_simple_recyclerview_imageview_width">match_parent</string>
+    <string name="really_simple_recyclerview_imageview_weight">80</string>
+
+    <string name="really_simple_recyclerview_textview_height">70dp</string>
+    <string name="really_simple_recyclerview_textview_width">match_parent</string>
+    <string name="really_simple_recyclerview_textview_weight">20</string>
+</resources>
