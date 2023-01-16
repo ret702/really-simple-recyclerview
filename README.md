@@ -1,10 +1,7 @@
 # really-simple-recyclerview
-A really simple implementation of reyclerview
+A really simple implementation of recyclerview
 
-All I wanted to do was to have a recyclerview that displayed an image an text.
-I tried multiple libraries that were overly complicated or had errors when I followed their tutorials.
-I have created many recyclerviews and always copied and pasted my past code and always told myself I would make a 
-generic recyclerview implementation. So I created the easiest example I could.
+A really simple implementation of a recyclerview without all the bells and whistles and without the headache
 
 How to use:
         
