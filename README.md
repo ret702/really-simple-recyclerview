@@ -1,5 +1,3 @@
-# really-simple-recyclerview
-A really simple implementation of recyclerview
 
 A really simple implementation of a recyclerview without all the bells and whistles and without the headache
 
